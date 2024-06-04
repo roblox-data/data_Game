@@ -1,4 +1,4 @@
-local data = {
+{
 	["version"] = 1,
 	["placeId"] = {
 		["id_1"] = {
