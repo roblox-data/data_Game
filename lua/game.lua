@@ -1,0 +1,17 @@
+local data = {
+	["version"] = 1,
+	["placeId"] = {
+		["id_1"] = {
+			["id"] = 16773081939,
+			["name"] = "+1 Speed Every Second But You're A Ball",
+		},
+		["id_2"] = {
+			["id"] = 7493270266,
+			["name"] = "Stud Long Jump Per Difficulty Chart Obby",
+		},
+		["id_3"] = {
+			["id"] = 192800,
+			["name"] = "Work at a Pizza Place",
+		}
+	}
+}
